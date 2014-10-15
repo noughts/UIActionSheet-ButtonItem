@@ -1,1 +1,1 @@
-pod "UIActionSheet+Blocks", :git => 'https://github.com/noughts/UIActionSheet-Blocks.git'
+pod "UIActionSheet+ButtonItem", :git => 'https://github.com/noughts/UIActionSheet-ButtonItem.git'
